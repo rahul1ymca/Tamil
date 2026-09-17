@@ -1,0 +1,7 @@
+{
+  "name": "சவுக்கு சங்கர் வலைப்பதிவு | Savukku Shankar Blog",
+  "description": "சவுக்கு சங்கர் பற்றிய விரிவான வாழ்க்கை வரலாறு, அரசியல் விமர்சனங்கள், ஊடகப் பயணம் மற்றும் புலனாய்வு இதழியல் ஆய்வுக் கட்டுரை.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
